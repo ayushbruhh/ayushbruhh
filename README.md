@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ayushkashyap2k2@gmail.com**
 
-- 📄 Know about my experiences [Current Studying and Worked Over My College Main Website And the TPO And done 2 Internships Over Web development and learning DSA now.](Current Studying and Worked Over My College Main Website And the TPO And done 2 Internships Over Web development and learning DSA now.)
+- 📄 Know about my experiences [Currently Studying and Worked Over My College Main Website And the TPO And done 2 Internships Over Web development and learning DSA now.](Currently Studying and Worked Over My College Main Website And the TPO And done 2 Internships Over Web development and learning DSA now.)
 
 - ⚡ Fun fact **I Collect Coins For Fun**
 
@@ -28,7 +28,7 @@
 <a href="https://twitter.com/404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="404" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="404" height="30" width="40" /></a>
 <a href="https://fb.com/404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="404" height="30" width="40" /></a>
-<a href="https://instagram.com/@bizzyayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bizzyayush" height="30" width="40" /></a>
+<a href="https://instagram.com/@bizzyayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bizzyayush" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ayush4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayush4u" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushkashyap2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushkashyap2k2" height="30" width="40" /></a>
 <a href="https://discord.gg/404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="404" height="30" width="40" /></a>

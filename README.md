@@ -1,7 +1,8 @@
 <div style="width:100%;height:0;padding-bottom:47%;position:relative;"><iframe src="https://giphy.com/embed/11SBJ0JtkqTa2Q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/naruto-shippuden-11SBJ0JtkqTa2Q">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Ayush Kashyap</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
+<!-- <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p> -->
+<img align="right" alt="Coding" src=""https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404&label=Profile%20views&color=0e75b6&style=flat" alt="404" /> </p>
 
